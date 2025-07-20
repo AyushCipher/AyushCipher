@@ -21,7 +21,7 @@
 </div>
 
 ### 🛠️ Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,nextjs,SQL,git,github,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,nextjs,mysql,git,github,postman)](https://skillicons.dev)
 
 ![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyushCipher&show_icons=true&theme=dark)
 
