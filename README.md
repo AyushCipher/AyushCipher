@@ -3,10 +3,11 @@
 <h1 align="center" style="font-size: 50px;">Hi 👋, I'm <span style="font-size: 60px; font-weight: bold;">Ayush Verma</span></h1>
 
 <!-- <hr style="height: 4px; background-color: #555; border: none; margin-top: 40px; margin-bottom: 20px;" /> -->
+<div align="center">
 
-<table  width="100%">
+<table width="100%" style="table-layout: fixed;">
   <tr>
-    <td width="70%">
+    <td style="width: 65%; vertical-align: top; padding-left: 40px; margin-left: 20px;">
       <p style="font-size: 40px;">
         • 🔭 Working passionately on projects using the <strong>M.E.R.N Stack</strong><br><br>
         • 🌱 Exploring the world of <strong>Artificial Intelligence</strong><br><br>
