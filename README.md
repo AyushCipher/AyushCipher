@@ -18,7 +18,7 @@
       </p>
     </td>
     <td>
-      <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding" width="300" style="border-radius: 10px;" />
+       <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
     </td>
   </tr>
 </table>
