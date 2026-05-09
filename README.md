@@ -13,7 +13,7 @@
         • 🌱 Exploring the world of <strong>Artificial Intelligence</strong><br><br>
         • 💬 Ask me anything about <strong>Full Stack Development</strong><br><br>
         • 📫 How to reach me: <a href="mailto:ayushv3533e@gmail.com?subject=Interested%20in%20collaboration&body=Hi%20Ayush%2C%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20would%20love%20to%20connect%20or%20collaborate%20on%20a%20project.%0A%0AThanks!"><strong>ayushv3533e@gmail.com</strong></a><br><br>
-        • 😄 My website: <a href="https://linkedin-portfolio-kappa.vercel.app/"><strong>linkedin-portfolio-kappa.vercel.app</strong></a><br><br>
+        • 😄 My website: <a href="https://latest-portfolio-wrcc.onrender.com"><strong>linkedin-portfolio-kappa.vercel.app</strong></a><br><br>
         • ⚡ Fun fact: I debug better with coffee and lo-fi beats.
       </p>
     </td>
