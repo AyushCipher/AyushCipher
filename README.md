@@ -46,8 +46,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,py,numpy,pandas,git,github,postman,redis,rabbitmq,kafka,docker,aws)](https://skillicons.dev)
 
-## 📊 GitHub Analytics
+---
 
+## 📊 GitHub Analytics
 <p align="center">
   <img
     width="90%"
