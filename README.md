@@ -2,6 +2,10 @@
 
 <h1 align="center" style="font-size: 50px;">Hi 👋, I'm <span style="font-size: 60px; font-weight: bold;">Ayush Verma</span></h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AyushCipher&label=Profile%20Views&color=0e75b6&style=flat" alt="AyushCipher" />
+</p>
+
 <!-- <hr style="height: 4px; background-color: #555; border: none; margin-top: 40px; margin-bottom: 20px;" /> -->
 <div align="center">
 
