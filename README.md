@@ -30,16 +30,21 @@
 
 <div id="badges">
   <a href="https://github.com/AyushCipher">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
-  <a href="https://www.instagram.com/verma_ji_ayush/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+
+  <a href="https://leetcode.com/u/Ayush_Verma854/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
+
   <a href="https://www.linkedin.com/in/ayush-verma-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://latest-portfolio-wrcc.onrender.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </div>
-</div> 
 
 ---
 
