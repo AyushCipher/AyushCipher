@@ -141,13 +141,13 @@
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AyushCipher&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AyushCipher&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
 
   <img width="49%" src="https://streak-stats.demolab.com?user=AyushCipher&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushCipher&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushCipher&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
 
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyushCipher&theme=github_dark&utcOffset=5.5" />
 </p>
